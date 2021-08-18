@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\bin\Debug\OopAssesment1HasanFidan.exe.config
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\bin\Debug\OopAssesment1HasanFidan.exe
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\bin\Debug\OopAssesment1HasanFidan.pdb
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.Properties.Resources.resources
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.exe
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.pdb
+C:\Users\MSI\source\repos\OopAssesment1HasanFidan\OopAssesment1HasanFidan\obj\Debug\OopAssesment1HasanFidan.Pizzacım.resources
